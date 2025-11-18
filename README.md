@@ -1,5 +1,12 @@
-# AI Insights by T Veera Babu
+# AI Insights
 
-This repository hosts my AI Insights blog — a collection of high-quality articles on AI, LLMs, workflow AI, agentic systems, enterprise AI, and more.
+Deep, practical explanations of modern AI — LLMs, agentic systems, workflow AI, enterprise automation, and the emerging AI engineering ecosystem.
 
-Stay tuned — first article coming soon.
+This space will host:
+
+- Flagship Article #1 — *The Complete Beginner-to-Expert Guide to Understanding Modern AI (LLM vs Workflow AI vs Agentic AI)*
+- Future articles on LLM architectures, agentic patterns, AI-in-enterprise, and more.
+
+Stay tuned — content is being prepared.
+
+© 2025 T Veera Babu. All rights reserved.
